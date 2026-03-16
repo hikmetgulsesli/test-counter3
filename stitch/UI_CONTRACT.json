@@ -1,0 +1,87 @@
+[
+  {
+    "screenId": "159b5b35ea9f4987a9e4eb07eedd75a6",
+    "screenTitle": "Minimalist Counter",
+    "deviceType": "DESKTOP",
+    "elements": [
+      {
+        "type": "button",
+        "label": "remove",
+        "line": 43
+      },
+      {
+        "type": "button",
+        "label": "refresh",
+        "line": 46
+      },
+      {
+        "type": "button",
+        "label": "add",
+        "line": 49
+      },
+      {
+        "type": "button",
+        "label": "[icon: calculate]",
+        "line": 34
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 44
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 47
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 50
+      }
+    ],
+    "navigation": [],
+    "buttons": [
+      {
+        "type": "button",
+        "label": "remove",
+        "line": 43
+      },
+      {
+        "type": "button",
+        "label": "refresh",
+        "line": 46
+      },
+      {
+        "type": "button",
+        "label": "add",
+        "line": 49
+      },
+      {
+        "type": "button",
+        "label": "[icon: calculate]",
+        "line": 34
+      },
+      {
+        "type": "button",
+        "label": "[icon: remove]",
+        "line": 44
+      },
+      {
+        "type": "button",
+        "label": "[icon: refresh]",
+        "line": 47
+      },
+      {
+        "type": "button",
+        "label": "[icon: add]",
+        "line": 50
+      }
+    ],
+    "inputs": [],
+    "hardcodedData": [],
+    "totalInteractive": 7,
+    "requiresRouter": false,
+    "requiresDragDrop": false
+  }
+]
